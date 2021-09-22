@@ -2,6 +2,6 @@
 
 > Maintained repo [DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/tree/main/projects/defibox)
 
-Follow [this guide](https://docs.llama.fi/submit-a-project) to create an adapter and submit a PR with it.
+Follow [guide](https://docs.llama.fi/submit-a-project) to create an adapter.
 
-Also, don't hesitate to send a message on [our discord](https://discord.gg/buPFYXzDDd) if we're late to merge your PR.
+[DefiLlama discord](https://discord.gg/buPFYXzDDd) to communicate more on this topic.
